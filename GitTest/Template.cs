@@ -6,7 +6,8 @@ namespace GitTest
 {
     class Template
     {
-
+        string p;
+        int s;
 
 
 
