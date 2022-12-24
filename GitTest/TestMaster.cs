@@ -4,7 +4,9 @@ using System.Text;
 
 namespace GitTest
 {
-    class TestMaster
+    class TestMaster 
     {
+        string m;
+        int p;
     }
 }
