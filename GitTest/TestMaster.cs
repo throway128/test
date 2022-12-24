@@ -6,6 +6,5 @@ namespace GitTest
 {
     class TestMaster
     {
-
     }
 }
