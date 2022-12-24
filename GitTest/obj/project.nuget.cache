@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZGxtUoElwQi3QQjn6z9RuB2G9xpYOKZmF9FNvAU8cult7yaCU92a1T9W6fpfqmdKJThlz2VELkz6x1fsk7Uodg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\test128_repo\\GitTest\\GitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
