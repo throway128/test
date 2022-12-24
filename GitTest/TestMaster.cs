@@ -6,7 +6,11 @@ namespace GitTest
 {
     class TestMaster 
     {
-        string m;
-        int p;
+
+
+
+
+
+
     }
 }
