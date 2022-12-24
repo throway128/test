@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\test128_repo\GitTest\bin\Debug\netcoreapp3.1\GitTest.exe
+C:\Users\Owner\Desktop\test128_repo\GitTest\bin\Debug\netcoreapp3.1\GitTest.deps.json
+C:\Users\Owner\Desktop\test128_repo\GitTest\bin\Debug\netcoreapp3.1\GitTest.runtimeconfig.json
+C:\Users\Owner\Desktop\test128_repo\GitTest\bin\Debug\netcoreapp3.1\GitTest.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\test128_repo\GitTest\bin\Debug\netcoreapp3.1\GitTest.dll
+C:\Users\Owner\Desktop\test128_repo\GitTest\bin\Debug\netcoreapp3.1\GitTest.pdb
+C:\Users\Owner\Desktop\test128_repo\GitTest\obj\Debug\netcoreapp3.1\GitTest.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\test128_repo\GitTest\obj\Debug\netcoreapp3.1\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\test128_repo\GitTest\obj\Debug\netcoreapp3.1\GitTest.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\test128_repo\GitTest\obj\Debug\netcoreapp3.1\GitTest.AssemblyInfo.cs
+C:\Users\Owner\Desktop\test128_repo\GitTest\obj\Debug\netcoreapp3.1\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\test128_repo\GitTest\obj\Debug\netcoreapp3.1\GitTest.dll
+C:\Users\Owner\Desktop\test128_repo\GitTest\obj\Debug\netcoreapp3.1\GitTest.pdb
+C:\Users\Owner\Desktop\test128_repo\GitTest\obj\Debug\netcoreapp3.1\GitTest.genruntimeconfig.cache
