@@ -10,6 +10,7 @@ namespace GitTest
         string p;
         
         string l;
-
+        
+        string m;
     }
 }
