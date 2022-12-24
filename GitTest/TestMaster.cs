@@ -8,6 +8,8 @@ namespace GitTest
     {
         string s;
         string p;
+        
+        string l;
 
     }
 }
