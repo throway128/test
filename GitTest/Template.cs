@@ -5,12 +5,5 @@ using System.Text;
 namespace GitTest
 {
     class Template
-    {
-        
-
-
-
-
-
-    }
+    { string s; }
 }
