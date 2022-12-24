@@ -6,5 +6,7 @@ namespace GitTest
 {
     class Template
     {
+        char x;
+        char y;
     }
 }
