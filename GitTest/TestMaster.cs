@@ -11,9 +11,9 @@ namespace GitTest
         
         string l;
 
-
-
         int q;
         int z;
+
+        string m;
     }
 }
